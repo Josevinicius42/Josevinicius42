@@ -8,7 +8,7 @@
 - 😄 Motivated by challenges. Moved by lifelong learning
 
 #### Skills:
-- R
+- Python
 - SQL
 - PowerBi
 - DAX
