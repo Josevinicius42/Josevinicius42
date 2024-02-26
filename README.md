@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Ipiranga as Performance
-- 🌱 I’m currently learning R and data analytics
+- 🌱 I’m currently learning Python and data analytics
 - 😄 Motivated by challenges. Moved by lifelong learning
 
 #### Skills:
