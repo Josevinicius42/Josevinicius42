@@ -12,6 +12,7 @@
 - SQL
 - PowerBi
 - DAX
+- Power Automate
 
 <div align="center">
   <a href="https://github.com/Josevinicius42">
