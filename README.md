@@ -8,12 +8,16 @@
 - 😄 Motivated by challenges. Moved by lifelong learning
 
 #### Skills:
-- Python
-- SQL
-- PowerBi
+- [Python](https://github.com/Josevinicius42/Final_Project_IBM/blob/main/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite%20(2)%20(1).ipynb)
+- [SQL](https://github.com/Josevinicius42/SQL/blob/main/README.md)
+- [Power Bi](https://app.powerbi.com/view?r=eyJrIjoiNjAxYjE0ZTAtODliMi00ZjEwLWIwMjgtNWY2MTY1NTk5MzZlIiwidCI6ImI4ZWU1ZGJkLWFhOTEtNDYzOS05YWZhLWMxMGY2NmJhNWU3MyJ9)
+- [Power Automate](https://github.com/Josevinicius42/Projeto_PowerAutomate)
 - DAX
-- Power Automate
+- Excel
+- Linguagem M
 
+  
+  
 <div align="center">
   <a href="https://github.com/Josevinicius42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josevinicius42&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
