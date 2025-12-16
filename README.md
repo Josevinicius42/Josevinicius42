@@ -15,6 +15,8 @@
 - DAX
 - Excel
 - Linguagem M
+- PowerApps
+- Databricks (PySpark)
 
   
   
